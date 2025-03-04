@@ -3,3 +3,5 @@
 Install macOS 14.7.4
 
 AppleALC.kext Don't update
+
+External screen. The lid uses a built-in microphone to create an aggregation device.
