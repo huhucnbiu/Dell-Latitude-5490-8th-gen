@@ -4,4 +4,4 @@ Install macOS 14.7.4
 
 AppleALC.kext Don't update
 
-External screen. The lid uses a built-in microphone to create an aggregation device.
+When using the external screen and the built-in screen is turned off, you need to create a Aggregate Device
